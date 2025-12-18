@@ -13,8 +13,7 @@ An example of the setup is shown below.
 
 This repository contains open-source materials for the most up-to-date versions of the CRFT. It links two folders representing [PsychoPy](https://www.psychopy.org/index.html) (`.psyexp`) and [OpenSesame](https://osdoc.cogsci.nl/) (`.osexp`) experiments, together with the associated files required to run them **locally** (lab/desktop experiments).
 
-Please consult the README files and accompanying manuscript ([Czilczer et al., 2026](DOI)) on the [Movement Imagery Ability Platform](https://movementimageryability.github.io) for guidance on the necessary steps to run the task in each of the four deployment modes, which may assist in selecting the appropriate option.
-
+Please consult the accompanying manuscript ([Czilczer et al., 2026](DOI)) on the [Movement Imagery Ability Platform](https://movementimageryability.github.io) and the README files for guidance on the necessary steps to run the task locally in PsychoPy and OpenSesame. Furthermore, please read the version-specific **README** provided in the respective folders:
 - [CRFT PsychoPy local](https://github.com/mmorenoverdu/CRFT/tree/main/CRFT)
 - [CRFT OpenSesame local](/OpenSesame-local)
 
