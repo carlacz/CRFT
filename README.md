@@ -17,7 +17,7 @@ Please consult the accompanying manuscript ([Czilczer et al., 2026](DOI)) on the
 - [CRFT PsychoPy local](https://github.com/mmorenoverdu/CRFT/tree/main/CRFT)
 - [CRFT OpenSesame local](/OpenSesame-local)
 
-Subsequent updates to the native software ([PsychoPy](https://www.psychopy.org/index.html) and [OpenSesame](https://osdoc.cogsci.nl/)) may require adjustments. As developers, we are not responsible for implementing these changes in every use case.
+Subsequent updates to the native software (PsychoPy, OpenSesame) may require adjustments. As developers, we are not responsible for implementing these changes in every use case.
 
 ## Language expansion
 If you want to contribute to this repository by providing a language translation, or want to run the task in your own language, expansions can be done relatively easily thanks to the implementation of language localisations (please read each README to understand how to implement these). You can also see these demos showing how to implement a language localisation in [PsychoPy](https://github.com/mmorenoverdu/language_localisation_demo) and [OpenSesame](https://github.com/carlacz/OpenSesame_Language-Localisation-Demo) with virtually no code.
