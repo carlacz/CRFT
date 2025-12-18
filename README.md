@@ -8,7 +8,7 @@ If you are interested in assessing broader movement imagery ability, visit the [
 
 Example of an **imagery** (left) and **execution** (right) trial are shown below.  
 
-![CRFT-MI-demo](files-READMEs/CRFT-MI-demo.gif) ![CRFT-ME-demo](files-READMEs/CRFT-ME-demo.gif)
+![CRFT-MI-demo](files-READMEs/CRFT-MI-demo.gif)![CRFT-ME-demo](files-READMEs/CRFT-ME-demo.gif)
 
 ## Repository information
 
