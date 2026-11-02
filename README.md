@@ -4,7 +4,7 @@ Available in **English**, **German**, **Spanish**, **French** (see below for inf
 
 The **Chronometric Radial Fitts' Task** (**CRFT**; [Czilczer et al., 2026](https://doi.org/10.3758/s13428-026-03124-8)) is a behavioural paradigm designed to assess the ability to manipulate movement imagery, approximated via imagery duration. It specifically measures the extent to which the relationship between movement difficulty and duration (through varying target size according to [Fitts' Law](https://doi.org/10.1037/h0055392)) is preserved in imagery compared to execution. The task was developed to address limitations associated with using the deviation between execution and imagery durations as an indicator of movement imagery ability.
 
-If you are interested in assessing broader movement imagery ability, visit the [Movement Imagery Ability Platform](https://movementimageryability.github.io) for an overview of open-source behavioural tasks.
+If you are interested in assessing broader movement imagery ability, visit the [Movement Imagery Ability Task Platform](https://movementimageryability.github.io) for an overview of open-source behavioural tasks.
 
 <table>
   <tr>
@@ -25,7 +25,7 @@ If you are interested in assessing broader movement imagery ability, visit the [
 
 This repository contains open-source materials for the most up-to-date versions of the CRFT. It links two folders representing [PsychoPy](https://www.psychopy.org/index.html) (`.psyexp`) and [OpenSesame](https://osdoc.cogsci.nl/) (`.osexp`) experiments, together with the associated files required to run them **locally** (lab/desktop experiments).
 
-Please consult the accompanying manuscript ([Czilczer et al., 2026](https://doi.org/10.3758/s13428-026-03124-8)) on the [Movement Imagery Ability Platform](https://movementimageryability.github.io) for guidance on the necessary steps to run the task locally in PsychoPy and OpenSesame. Furthermore, please read the version-specific **README** provided in the respective folders:
+Please consult the accompanying manuscript ([Czilczer et al., 2026](https://doi.org/10.3758/s13428-026-03124-8)) on the [Movement Imagery Ability Task Platform](https://movementimageryability.github.io) for guidance on the necessary steps to run the task locally in PsychoPy and OpenSesame. Furthermore, please read the version-specific **README** provided in the respective folders:
 - [CRFT PsychoPy local](/PsychoPy-local)
 - [CRFT OpenSesame local](/OpenSesame-local)
 
